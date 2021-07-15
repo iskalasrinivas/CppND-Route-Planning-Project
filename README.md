@@ -2,7 +2,7 @@
 
 This repo contains the starter code for the Route Planning project.
 
-<img src="map.png" width="600" height="450" />
+<img src="path2.png" width="600" height="450" />
 
 ## Cloning
 
@@ -39,8 +39,7 @@ mkdir build && cd build
 ```
 From within the `build` directory, then run `cmake` and `make` as follows:
 ```
-cmake ..
-make
+cmake .. && make
 ```
 ### Running
 The executable will be placed in the `build` directory. From within `build`, you can run the project as follows:
